@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/skrilltrax/.gradle/caches/transforms-2/files-2.1/ae87b58d02a368fbe84ca422aad34471/appcompat-1.1.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

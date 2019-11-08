@@ -1,2 +1,2 @@
-rootProject.name='Algo Visualiser'
-include("":app")
+rootProject.name = "Algo Visualiser"
+include(":app")

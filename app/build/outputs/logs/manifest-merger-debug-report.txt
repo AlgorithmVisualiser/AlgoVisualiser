@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/ae87b58d02a368fbe84ca422aad34471/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/1949535c86bd516396c80e82867fa383/jetified-core-ktx-1.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/a1f4b70834c0fc9f86e41ef0bed77a64/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/36aa45937c3f53ee95efb6ff3bf92e3d/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/d5c42dd1a67648d7fb3a93fbc8428485/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/80f3a2f01fc99339d32b0711669be9b3/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/c32f82e42bd8cd066d5895f75ed8811c/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/0dec8b922dbdcfb101fed269b5f80e96/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/589211d81089f0c7a96f887142fbf63f/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/20de1868ada7ba943ae8bc23c7d34df2/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/e8baf692094a4a8179f86c79c5f1b26d/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/d84f665cf5c145ea229fb4dbafdf1dbe/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/4673df1091df356cb3ef3ea88e5b9a69/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/623f839c93894719b32cac69a6c2d116/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/a850de6de60ce3915a2d98f3a9f1c481/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/29cba24a6568982d28932e56213cfa41/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/cf57d570f41d0ee3e61f3b05484a453c/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/f2fa61ab81c62641693899512a4c18ab/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/43c31f56b9e5808b50716a4f978ae20d/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/fb8a80ea21d93c497c7d90574281aa4f/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/b23bbd7c5a9d268cb5142e7dcc502cec/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/5ffad8277a572d9a83f92a8af605c13f/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml
+		INJECTED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml
+		ADDED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml
+		ADDED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/a1f4b70834c0fc9f86e41ef0bed77a64/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/a1f4b70834c0fc9f86e41ef0bed77a64/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/4673df1091df356cb3ef3ea88e5b9a69/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/4673df1091df356cb3ef3ea88e5b9a69/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/a850de6de60ce3915a2d98f3a9f1c481/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/a850de6de60ce3915a2d98f3a9f1c481/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/4673df1091df356cb3ef3ea88e5b9a69/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml:11:9-40
+activity#app.algovisualiser.MainActivity
+ADDED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml
+INJECTED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/ae87b58d02a368fbe84ca422aad34471/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/ae87b58d02a368fbe84ca422aad34471/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/1949535c86bd516396c80e82867fa383/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/1949535c86bd516396c80e82867fa383/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/a1f4b70834c0fc9f86e41ef0bed77a64/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/a1f4b70834c0fc9f86e41ef0bed77a64/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/36aa45937c3f53ee95efb6ff3bf92e3d/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/36aa45937c3f53ee95efb6ff3bf92e3d/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/d5c42dd1a67648d7fb3a93fbc8428485/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/d5c42dd1a67648d7fb3a93fbc8428485/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/80f3a2f01fc99339d32b0711669be9b3/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/80f3a2f01fc99339d32b0711669be9b3/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/c32f82e42bd8cd066d5895f75ed8811c/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/c32f82e42bd8cd066d5895f75ed8811c/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/0dec8b922dbdcfb101fed269b5f80e96/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/0dec8b922dbdcfb101fed269b5f80e96/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/589211d81089f0c7a96f887142fbf63f/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/589211d81089f0c7a96f887142fbf63f/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/20de1868ada7ba943ae8bc23c7d34df2/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/20de1868ada7ba943ae8bc23c7d34df2/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/e8baf692094a4a8179f86c79c5f1b26d/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/e8baf692094a4a8179f86c79c5f1b26d/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/d84f665cf5c145ea229fb4dbafdf1dbe/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/d84f665cf5c145ea229fb4dbafdf1dbe/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/4673df1091df356cb3ef3ea88e5b9a69/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/4673df1091df356cb3ef3ea88e5b9a69/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/623f839c93894719b32cac69a6c2d116/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/623f839c93894719b32cac69a6c2d116/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/a850de6de60ce3915a2d98f3a9f1c481/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/a850de6de60ce3915a2d98f3a9f1c481/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/29cba24a6568982d28932e56213cfa41/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/29cba24a6568982d28932e56213cfa41/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/cf57d570f41d0ee3e61f3b05484a453c/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/cf57d570f41d0ee3e61f3b05484a453c/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/f2fa61ab81c62641693899512a4c18ab/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/f2fa61ab81c62641693899512a4c18ab/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/43c31f56b9e5808b50716a4f978ae20d/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/43c31f56b9e5808b50716a4f978ae20d/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/fb8a80ea21d93c497c7d90574281aa4f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/fb8a80ea21d93c497c7d90574281aa4f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/b23bbd7c5a9d268cb5142e7dcc502cec/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/b23bbd7c5a9d268cb5142e7dcc502cec/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/5ffad8277a572d9a83f92a8af605c13f/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/skrilltrax/.gradle/caches/transforms-2/files-2.1/5ffad8277a572d9a83f92a8af605c13f/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml
+INJECTED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml
+		ADDED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml
+		INJECTED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml
+		ADDED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml
+		INJECTED from /home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/src/main/AndroidManifest.xml
