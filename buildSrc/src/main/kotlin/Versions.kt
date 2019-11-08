@@ -19,7 +19,7 @@ object Versions {
     const val de_fayard_refreshversions_gradle_plugin: String = "0.7.0"
 
     const val kotlin_android_extensions_runtime: String = "1.3.60-eap-25"
-             // available: "1.3.60-eap-143"
+        // available: "1.3.60-eap-143"
 
     const val desugar_jdk_libs_configuration: String = "0.5.0"
 

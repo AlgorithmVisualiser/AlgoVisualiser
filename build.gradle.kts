@@ -19,19 +19,19 @@ plugins {
     id("de.fayard.refreshVersions") version "0.7.0"
     id("com.diffplug.gradle.spotless") version "3.25.0"
 }
-fun isVersionNotStable(version: String) : Boolean {
-    val rejectedVersions = listOf("cr", "m", "preview", "eap");
+fun isVersionNotStable(version: String): Boolean {
+    val rejectedVersions = listOf("cr", "m", "preview", "eap")
     rejectedVersions.forEach {
         if (version.contains(it)) {
-            return false;
+            return false
         }
     }
-    return true;
+    return true
 }
 
 buildSrcVersions {
     rejectVersionIf {
-        isVersionNotStable(candidate.version);
+        isVersionNotStable(candidate.version)
     }
 }
 
@@ -42,6 +42,7 @@ spotless {
     }
     kotlinGradle {
         target("*.gradle.kts", "additionalScripts/*.gradle.kts")
+        targetExclude("buildSrc/**/*.gradle.kts")
         ktlint()
     }
 }
