@@ -22,7 +22,11 @@ android {
     }
     sourceSets {
         val main by getting
+        val test by getting
+        val androidTest by getting
         main.java.srcDirs("src/main/kotlin")
+        test.java.srcDirs("src/test/kotlin")
+        androidTest.java.srcDirs("src/androidTest/kotlin")
     }
     compileOptions {
         this.sourceCompatibility = JavaVersion.VERSION_1_8
@@ -39,4 +43,5 @@ dependencies {
     testImplementation("junit:junit:4.12")
     androidTestImplementation("androidx.test.ext:junit:1.1.1")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.2.0")
+    implementation(kotlin("test"))
 }
