@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/skrilltrax/Projects/Android/Kotlin/AlgoVisualiser/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "outputFile": "/Users/alihasan/Documents/Android_Project/AlgoVisualiser/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
             "map": [
                 {
-                    "source": "/home/skrilltrax/.gradle/caches/transforms-2/files-2.1/ae87b58d02a368fbe84ca422aad34471/appcompat-1.1.0/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "source": "/Users/alihasan/.gradle/caches/transforms-2/files-2.1/12684423598f2aad2d248d26024d937f/appcompat-1.1.0/res/values-ldltr-v21/values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
