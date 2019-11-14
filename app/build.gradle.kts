@@ -22,12 +22,17 @@ android {
     }
     sourceSets {
         val main by getting
+        val test by getting
+        val androidTest by getting
         main.java.srcDirs("src/main/kotlin")
+        test.java.srcDirs("src/test/kotlin")
+        androidTest.java.srcDirs("src/androidTest/kotlin")
     }
     compileOptions {
         this.sourceCompatibility = JavaVersion.VERSION_1_8
         this.targetCompatibility = JavaVersion.VERSION_1_8
     }
+
 }
 
 dependencies {
@@ -36,7 +41,9 @@ dependencies {
     implementation("androidx.appcompat:appcompat:1.1.0")
     implementation("androidx.core:core-ktx:1.1.0")
     implementation("androidx.constraintlayout:constraintlayout:1.1.3")
+    implementation("androidx.cardview:cardview:1.0.0")
     testImplementation("junit:junit:4.12")
     androidTestImplementation("androidx.test.ext:junit:1.1.1")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.2.0")
+    implementation(kotlin("test"))
 }
